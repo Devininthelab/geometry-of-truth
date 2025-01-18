@@ -5,3 +5,5 @@ pandas
 plotly
 nbformat
 tqdm
+scikit-learn
+datasets
